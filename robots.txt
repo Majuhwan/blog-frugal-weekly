@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://frugal-weekly.howlane.com/sitemap.xml
